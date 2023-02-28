@@ -7,15 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-<?php
-
-echo '<h1>Hello</h1>';
-
-?>
-
-<a href="blog.php">
-    Blog
-</a>
-
+    <h1>
+        Blog page
+    </h1>
 </body>
 </html>
